@@ -11,10 +11,10 @@
 .mtj.tmp/
 
 # eclipse related folder
-target/*
-.settings/*
-.classpath
-.project
+/.settings
+/target
+/.classpath
+/.project
 
 # Package Files #
 *.jar
